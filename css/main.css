@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica;
+    background-color: #fff;
+    margin: 0px;
+    overflow: hidden;
+}
+
+#image {
+    background-color: #fff;
+    width: 200px;
+    height: 600px;
+    position: static; /* fixed or static */
+    float:left;
+
+    /*overflow: hidden;*/
+}
+
+
+#canvas {
+    background-color: #fff;
+    width: 800px;
+    height: 600px;
+    padding: 50px;
+    position: static; /* fixed or static */
+    float:left;
+
+}
+
